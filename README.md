@@ -44,7 +44,7 @@ Nossa principal motivação é trazer para nova geração um jogo sobre o tema s
 Se trata apenas de um jogo simples de caça-palavras referente ao assunto(sustentabilidade) onde também haverá dicas opcionais para o jogador.
 
 ## imagens
-![resultados](imagem.png)
+![resultados](imagens/imagem.png)
 
   
 
