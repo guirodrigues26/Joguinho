@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Caça-Palavras Sustentabilidade</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- Botão de dica -->
+  <button id="botao-dica">💡</button>
+  <!-- Caixa de dica (tooltip) -->
+  <div id="texto-dica"></div>
+
+  <!-- Temporizador e Pontuação -->
+  <div id="status-bar">
+    <span id="temporizador">Tempo: 0s</span>
+    <span id="pontuacao">Pontuação: 0</span>
+  </div>
+
+  <div id="game-container">
+    <h1>Caça-Palavras: Sustentabilidade</h1>
+    <div id="game-area">
+      <div id="word-list">
+        <h3>Palavras a encontrar:</h3>
+        <ul>
+          <li>Cuidar</li><li>Proteger</li><li>Preservar</li><li>Aprender</li>
+          <li>Natureza</li><li>Mundo</li><li>Terra</li><li>União</li>
+          <li>Consciente</li><li>Vento</li>
+        </ul>
+      </div>
+      <div id="word-search"><!-- grade gerada pelo JS --></div>
+    </div>
+    <button id="botao-reiniciar">Reiniciar Jogo</button>
+  </div>
+
+  <!-- Tela de finalização -->
+  <div id="tela-final">
+    <h2>Parabéns!</h2>
+    <p id="mensagem-final"></p>
+    <button id="botao-jogar-novamente">Jogar Novamente</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
