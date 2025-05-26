@@ -43,6 +43,8 @@ Nossa principal motivação é trazer para nova geração um jogo sobre o tema s
 ## 📚 História dos personagens/ Cenários
 Se trata apenas de um jogo simples de caça-palavras referente ao assunto(sustentabilidade) onde também haverá dicas opcionais para o jogador.
 
+## imagens
+![resultados](imagens/5744y71i7q781.png)
 
   
 
