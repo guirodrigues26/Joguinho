@@ -7,7 +7,7 @@ Html, Css e JavaScript.
 ## 🤓Integrantes
 |         Nome         |      Github       |        Contato        |
 |----------------------|-------------------|-----------------------| 
-| Clara D´avila        | [Clara Elisa](https://github.com/Claraelisa05)     |  claraelisa5198@gmail.com |
+| Clara D´avila        | [Clara Elisa](https://github.com/Claraelisa05)     | claraelisa.davila@gmail.com  |
 | Guilherme Rodrigues  | [guirodrigues26](https://github.com/guirodrigues26)  | guicastorsilva@gmail.com |
 | Luciana Flores       | [LuciFlores208](https://github.com/LuciFlores208)   | luci.barbosaflores@gmail.com  |                                
 
